@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**dianadauksa/dianadauksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻 I am a PHP wizard, weaving my magic with PHP, MySQL, Laravel, GIT, HTML, CSS, JavaScript, creating RESTful API spells, casting unit and integration tests and following design incantations (KISS, DRY, etc.) to craft powerful software.
 
-Here are some ideas to get you started:
+🔭 I am currently conjuring up an online banking system built with Laravel, complete with spellbinding features such as account management, internal and external transfers, currency exchange, statement history and filtering, and even the ability to buy, sell, shortlist, and manage your cryptocurrency portfolio like a true financial wizard.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I am expanding my skillset by learning Vue.js, which will allow me to create magic not only on the back-end but also on the front-end of my projects.
+
+⚡ Fun fact: 
+🔐 I am also a Data Protection Expert passionate about technology advancement and privacy compliance.
+I understand that when it comes to software development, data protection is the key that unlocks the door to secure information and prevents unwanted access. I am a master locksmith in progress, constantly honing my skills to ensure that every software I craft is not only functional but also fortified with the necessary data security measures.
+
+Tech Stack:
+
+Development Tools:
