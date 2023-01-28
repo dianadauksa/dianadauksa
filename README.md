@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👩🏻‍💻 I am a PHP wizard, weaving my magic with PHP, Laravel, MySQL, GIT, HTML, CSS, JavaScript, creating RESTful API spells, casting unit and integration tests and following design incantations (KISS, DRY, etc.) to craft powerful software.
+👩🏻‍💻 I am a PHP wizard, weaving my magic with PHP, Laravel, MySQL, GIT, HTML, CSS, JavaScript, creating RESTful API spells, casting unit and integration tests and following design incantations (KISS, DRY, SOLID etc.) to craft powerful software.
 
 🔭 I am currently conjuring up an online banking system built with Laravel, complete with spellbinding features such as account management, internal and external transfers, currency exchange, statement history and filtering, and even the ability to buy, sell, shortlist, and manage your cryptocurrency portfolio like a true financial wizard.
 
