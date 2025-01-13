@@ -8,8 +8,7 @@
 🔐 I am also a Data Protection Expert passionate about technology advancements and privacy compliance, making sure the software I develop is secure and protects sensitive data. It’s like being a digital locksmith, ensuring security is always a top priority.
 
 ### Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,yii,mysql,postgres,js,html,css,vue,tailwind,bootstrap,scss,docker,aws,rabbitmq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,linux,mysql,postgres,js,jquery,d3,html,css,vue,tailwind,bootstrap,scss,rabbitmq)](https://skillicons.dev)
 
 ### Development Tools:
-
-![Git Icon](icons/git.png) ![VSCode Icon](icons/vscode.png) ![PHPStorm Icon](icons/phpstorm.png) ![Docker Icon](icons/docker.png) ![AWS Icon](icons/aws.png)
+[![My Skills](https://skillicons.dev/icons?i=phpstorm,vscode,git,bitbucket,figma,postman,jenkins,docker,aws)](https://skillicons.dev)
